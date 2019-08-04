@@ -23,6 +23,7 @@
       </dependency>
   </dependencies>
     <build>
+	    <defaultGoal>install</defaultGoal>
         <finalName>helloworld</finalName>
         <plugins>
             <plugin>
